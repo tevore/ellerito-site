@@ -2,4 +2,12 @@
 
 .jumbo-img {
 	background-image: url('../images/port1.png');
+	display: block;
+	height: 500px;
+	width: auto;
+}
+
+.jumbotron {
+	opacity: 0.8;
+	text-align: center;
 }
